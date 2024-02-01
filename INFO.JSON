@@ -1,0 +1,14 @@
+{
+    "web": {
+        "client_id": "155951787875-a97e59bkacjipkn140orteqo1fpqh50l.apps.googleusercontent.com",
+        "project_id": "argon-computer-409409",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost:3000/auth/google/callback",
+            "http://localhost:3001/auth/google/callback"
+        ]
+    }
+}
